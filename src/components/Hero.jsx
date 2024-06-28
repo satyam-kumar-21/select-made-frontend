@@ -116,7 +116,7 @@ const Hero = () => {
           </div>
           <div className="w-full lg:w-[40%] flex justify-center lg:justify-end mb-8 lg:mb-0">
             <img
-              src="http://www.de-pest.org/images/pic2.png"
+              src="https://clean360.dexignlab.com/xhtml/images/our-work/pic3.jpg"
               className="max-w-xs md:max-w-sm"
               alt="Watch Illustration"
             />
