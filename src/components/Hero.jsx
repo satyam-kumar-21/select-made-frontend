@@ -11,7 +11,7 @@ const Hero = () => {
     setIsMenuOpen(false);
   };
 
-  const imgurl = "http://www.de-pest.org/images/pic2.png"
+  const imgurl = "../../public/Image/hero.png"
 
   return (
     <main className="dark:bg-gray-800 bg-white relative overflow-hidden h-screen">
